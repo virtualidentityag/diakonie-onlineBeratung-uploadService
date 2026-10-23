@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.12.2](https://github.com/virtualidentityag/caritas-onlineBeratung-uploadService/compare/v1.12.1...v1.12.2) (2026-10-23)
+
+
+### Bug Fixes
+
+* update base image to eclipse-temurin:11-jdk-jammy ([e758993](https://github.com/virtualidentityag/caritas-onlineBeratung-uploadService/commit/e758993b1280a5076a2f2433711f2e5743c8697b))
+
 ### [1.12.1](https://github.com/virtualidentityag/caritas-onlineBeratung-uploadService/compare/v1.12.0...v1.12.1) (2025-11-26)
 
 
